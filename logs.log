@@ -1,0 +1,54 @@
+2024-02-21 04:30:17,627 INFO PersonalAreaTest [main] Start driver
+2024-02-21 04:30:36,424 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 04:47:19,251 INFO PersonalAreaTest [main] Start driver
+2024-02-21 04:47:27,121 INFO PersonalAreaTest [main] Waiting ,ok
+2024-02-21 04:47:27,249 INFO PersonalAreaTest [main] Check auth 
+2024-02-21 04:47:29,238 INFO PersonalAreaTest [main] Examination success > personal page
+2024-02-21 04:47:34,293 INFO PersonalAreaTest [main] Clear fields success
+2024-02-21 04:47:34,836 INFO PersonalAreaTest [main] Add success
+2024-02-21 04:47:56,570 INFO p.PersonalAreaPage [main]
+2024-02-21 04:47:56,895 INFO p.PersonalAreaPage [main]
+2024-02-21 04:47:57,236 INFO PersonalAreaTest [main] Add information success
+2024-02-21 04:48:00,316 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 04:48:00,868 INFO PersonalAreaTest [main] Start driver
+2024-02-21 04:48:08,844 INFO PersonalAreaTest [main] Successful
+2024-02-21 04:48:13,016 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 04:54:08,942 INFO PersonalAreaTest [main] Start driver
+2024-02-21 04:54:15,463 INFO PersonalAreaTest [main] Waiting ,ok
+2024-02-21 04:54:15,635 INFO PersonalAreaTest [main] Check auth 
+2024-02-21 04:54:17,651 INFO PersonalAreaTest [main] Examination success > personal page
+2024-02-21 04:54:22,426 INFO PersonalAreaTest [main] Clear fields success
+2024-02-21 04:54:23,078 INFO PersonalAreaTest [main] Add success
+2024-02-21 04:54:44,410 INFO p.PersonalAreaPage [main]
+2024-02-21 04:54:44,747 INFO p.PersonalAreaPage [main]
+2024-02-21 04:54:45,122 INFO PersonalAreaTest [main] Add information success
+2024-02-21 04:54:48,265 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 04:54:48,813 INFO PersonalAreaTest [main] Start driver
+2024-02-21 04:54:56,224 INFO PersonalAreaTest [main] Successful
+2024-02-21 04:55:00,561 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 05:13:17,279 INFO PersonalAreaTest [main] Start driver
+2024-02-21 05:13:23,670 INFO PersonalAreaTest [main] Waiting ,ok
+2024-02-21 05:13:23,806 INFO PersonalAreaTest [main] Check auth 
+2024-02-21 05:13:26,195 INFO PersonalAreaTest [main] Examination success > personal page
+2024-02-21 05:13:31,302 INFO PersonalAreaTest [main] Clear fields success
+2024-02-21 05:13:31,933 INFO PersonalAreaTest [main] Add success
+2024-02-21 05:13:53,229 INFO p.PersonalAreaPage [main]
+2024-02-21 05:13:53,591 INFO p.PersonalAreaPage [main]
+2024-02-21 05:13:53,966 INFO PersonalAreaTest [main] Add information success
+2024-02-21 05:13:57,676 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 05:13:58,228 INFO PersonalAreaTest [main] Start driver
+2024-02-21 05:14:06,147 INFO PersonalAreaTest [main] Successful
+2024-02-21 05:14:10,619 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 05:18:09,464 INFO PersonalAreaTest [main] Start driver
+2024-02-21 05:18:16,174 INFO PersonalAreaTest [main] Waiting ,ok
+2024-02-21 05:18:16,366 INFO PersonalAreaTest [main] Check auth 
+2024-02-21 05:18:18,422 INFO PersonalAreaTest [main] Examination success > personal page
+2024-02-21 05:18:23,671 INFO PersonalAreaTest [main] Clear fields success
+2024-02-21 05:18:24,412 INFO PersonalAreaTest [main] Add success
+2024-02-21 05:18:46,252 INFO p.PersonalAreaPage [main] Add 1 contact
+2024-02-21 05:18:46,609 INFO p.PersonalAreaPage [main] Add 1 contact
+2024-02-21 05:18:46,991 INFO PersonalAreaTest [main] Add information success
+2024-02-21 05:18:50,081 INFO PersonalAreaTest [main] Quit driver
+2024-02-21 05:18:50,632 INFO PersonalAreaTest [main] Start driver
+2024-02-21 05:18:58,662 INFO PersonalAreaTest [main] Successful
+2024-02-21 05:19:03,344 INFO PersonalAreaTest [main] Quit driver
